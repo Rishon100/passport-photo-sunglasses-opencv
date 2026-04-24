@@ -124,6 +124,7 @@ main_sunglass-checkpoint.ipynb
 ## Output
 
 The final output shows sunglasses accurately placed over the eye region of the face image.
+<img width="1550" height="780" alt="output" src="https://github.com/user-attachments/assets/b266bd93-d663-4c65-939a-ec54f2f09859" />
 
 ---
 
